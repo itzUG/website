@@ -1,4 +1,4 @@
-# UQCS  - An amzing website
+# UQCS  Website- An amzing website
 
 The website of The University of Queensland Computing Society.
 
